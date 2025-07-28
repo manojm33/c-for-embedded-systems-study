@@ -1,5 +1,5 @@
 /* First C pogram
- * This program in written tho print the words "Hello World" on to the screennnnnn
+ * This program in written to print the words "Hello World" on to the screennnnnn
  * Author: manoj
  * Date: 28 Jul 2025
  */
